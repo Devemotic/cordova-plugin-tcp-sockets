@@ -6,11 +6,11 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "cz.blocshop,philipptrenz",
+  "author": "emotic",
   "license": "MIT",
   "repository": {
     "type" : "git",
-    "url" : "https://github.com/philipptrenz/cordova-plugin-tcp-sockets.git"
+    "url" : "https://github.com/devemotic/cordova-plugin-tcp-sockets.git"
   },
   "keywords": "cordova,tcp,socket,tcp-socket",
   "cordova": {
