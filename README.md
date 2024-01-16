@@ -2,11 +2,13 @@ cordova-plugin-tcp-sockets
 ==========================
 This Cordova plugin provides JavaScript API, that allows you to communicate with server through TCP raw packages.
 
+This is a fork of https://github.com/philipptrenz/cordova-plugin-tcp-sockets only to get a stable version
+
 ## Installation
 
 Install this plugin simply by:
 
-`cordova plugin add https://github.com/philipptrenz/cordova-plugin-tcp-sockets`
+`cordova plugin add cordova-plugin-tcp-sockets`
 
 ## Sample usage
 Here is simple example of how to connect to remote server, consume data from it and close the connection.
